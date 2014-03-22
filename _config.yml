@@ -1,0 +1,11 @@
+name: 東京工業大学附属科学技術高等学校 情報コンピュータ愛好会
+markdown: redcarpet
+pygments: true
+
+exclude: ["Gemfile", "Gemfile.lock"]
+include: ["images/*"]
+# Sassの設定
+sass:
+  syntax: scss 	   # scss|sass
+  style: compact  # nested|expanded|compact|compressed
+  compile_in_place: false   # true|false
