@@ -1,7 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-
-gem 'jekyll-sass'
-gem 'jekyll-haml'
-
+gem "github-pages"
+gem "jekyll"

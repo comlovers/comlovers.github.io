@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    RedCloth (4.2.9)
     blankslate (2.1.2.4)
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
@@ -9,6 +10,14 @@ GEM
       highline (~> 1.6.11)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
+    github-pages (12)
+      RedCloth (= 4.2.9)
+      jekyll (= 1.4.2)
+      kramdown (= 1.2.0)
+      liquid (= 2.5.4)
+      maruku (= 0.7.0)
+      rdiscount (= 2.1.7)
+      redcarpet (= 2.3.0)
     haml (4.0.4)
       tilt
     highline (1.6.20)
@@ -30,6 +39,7 @@ GEM
       colorator (~> 0.1)
       jekyll (>= 0.10.0)
       sass (>= 3.0.0)
+    kramdown (1.2.0)
     liquid (2.5.4)
     listen (1.3.1)
       rb-fsevent (>= 0.9.3)
@@ -47,6 +57,7 @@ GEM
       ffi (>= 0.5.0)
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
+    rdiscount (2.1.7)
     redcarpet (2.3.0)
     safe_yaml (0.9.7)
     sass (3.2.13)
@@ -59,6 +70,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  github-pages
   jekyll
   jekyll-haml
   jekyll-sass
