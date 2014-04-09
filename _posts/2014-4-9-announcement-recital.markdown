@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "2014年度 活動成果発表会 実施のお知らせ"
+date:   2014-4-10 00:00:00
+categories: info
+---
+
+
 #情報コンピュータ愛好会
 
 [http://comlovers.github.io](http://comlovers.github.io)  
