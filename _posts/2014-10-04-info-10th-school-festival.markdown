@@ -2,9 +2,9 @@
 layout: post
 title:  "2014年度 弟燕祭のお知らせ"
 date:   2014-10-04 00:00:00
-categories: info Teiensai
-keywords: お知らせ 弟燕祭
+categories: info
 ---
+
 
 ##弟燕祭:新世界を体感するhogehoge ~21st century~
 **愛好会員が制作した作品を展示するとともに、展示物についてプレゼンテーションを予定しています。**  
