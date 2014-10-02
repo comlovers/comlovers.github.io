@@ -1,7 +1,7 @@
 ---
-layout:post
-title:"2014年度 弟燕祭のお知らせ"
-date:2014-10-04 00:00:00
+layout: post
+title:  "2014年度 弟燕祭のお知らせ"
+date:   2014-10-04 00:00:00
 categories: info Teiensai
 keywords: お知らせ 弟燕祭
 ---
